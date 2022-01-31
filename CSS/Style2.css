@@ -1,11 +1,10 @@
-body{
-    margin:0;
-    padding: 0;
-    background-image: url(blue.jpg);
-
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../Images/blue.jpg);
 }
 
-nav a{
-    text-decoration: none;
-    font-size: 90px;
+nav a {
+  text-decoration: none;
+  font-size: 90px;
 }
