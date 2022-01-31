@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(fog.jpg)
+
+
+}
+
+nav a{
+    text-decoration: solid;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 90px;
+    font-family: poppins;
+    margin-right: 25px;
+    color:goldenrod;
+
+
+
+}
+.banner-area h1{
+    font-size: 50px;
+    color: rgb(75, 71, 63);
+}
+.banner-area h2{
+    font-size: 30px;
+
+}
+.banner-area h3{
+    font-size: 20px;
+}
+.btn{
+    text-decoration: darkgoldenrod;
+    padding: 10px;
+    border: darkorchid;
+}
+.btn:hover{
+    background-color: darkslategrey;
+    color: darkturquoise;
+
+}
+@keyframes animate{
+    0%{
+        transform: scale(0);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+
+
+
+
